@@ -15,7 +15,7 @@ $magicien=new Magicien();
 
 $addition=function($nbr)
 {
-    return $nbr+3;
+    return $nbr+2;
 };
 
 $listeNbr = $addition(1);
