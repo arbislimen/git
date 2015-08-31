@@ -21,6 +21,4 @@ $addition=function($nbr)
 $listeNbr = $addition(1);
 echo $listeNbr;
 
-echo "Merci Git";
-
 ?>
